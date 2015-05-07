@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="Convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="Fah_to_Kev">[Kelvin] = ([Fahrenheit]+459.67)*(5/9)</string>
+    <string name="Kev_to_Fah">[Fahrenheit] = ([Kelvin]*(9/5))-459.67</string>
+    <string name="Kev_to_Cel">[Celsius] = [Kelvin]-273.15</string>
+    <string name="Cel_to_Kev">[Kelvin] = [Celsius]+273.15</string>
+    <string name="Fah_to_Cel">[Celsius] = ([Fahrenheit]-32)*(5/9)</string>
+    <string name="Cel_to_Fah">[Fahrenheit]= [Celsius]*(9/5)+32</string>
+</resources>
